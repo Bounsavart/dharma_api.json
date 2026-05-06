@@ -16,5 +16,24 @@
     "category": "Focus",
     "progress": 0.7,
     "audio_url": "https://raw.githubusercontent.com/username/repo/main/audio2.mp3"
-  }
+  },
+  {
+    "id": "2",
+    "title": "Mindfulness in daily life",
+    "time": "08:30",
+    "level": "Now playing",
+    "category": "Love",
+    "progress": 0.7,
+    "audio_url": "https://raw.githubusercontent.com/username/repo/main/audio2.mp3"
+  },
+  {
+    "id": "2",
+    "title": "Mindfulness in daily life",
+    "time": "08:30",
+    "level": "Now playing",
+    "category": "Love",
+    "progress": 0.7,
+    "audio_url": "https://raw.githubusercontent.com/username/repo/main/audio2.mp3"
+  },
+  
 ]
