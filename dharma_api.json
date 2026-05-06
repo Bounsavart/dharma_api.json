@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "title": "Let go of suffering",
+    "time": "12:45",
+    "level": "Beginner",
+    "category": "Stress",
+    "progress": 0.4,
+    "audio_url": "https://raw.githubusercontent.com/username/repo/main/audio1.mp3"
+  },
+  {
+    "id": "2",
+    "title": "Mindfulness in daily life",
+    "time": "08:30",
+    "level": "Now playing",
+    "category": "Focus",
+    "progress": 0.7,
+    "audio_url": "https://raw.githubusercontent.com/username/repo/main/audio2.mp3"
+  }
+]
